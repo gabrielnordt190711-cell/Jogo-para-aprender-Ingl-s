@@ -54,4 +54,4 @@ Quanto mais palavras você acertar, melhor sua pontuação!
 ⚙️ Configurações (Opcionais)
 
 duration = 5 → Tempo de gravação em segundos
-PROBABILIDADE_MOSTRAR_MEDIO = 0.5 → Chance de mostrar a tradução na fase médio (0.0 a 1.0)
+PROBABILIDADE_MOSTRAR_MEDIO = 0.3 → Chance de mostrar a tradução na fase médio (0.0 a 1.0)
