@@ -10,8 +10,8 @@ pontos = 0
 duration = 5  # segundos de gravação
 sample_rate = 44100
 
-# Probabilidade de mostrar a tradução na fase MÉDIO (50%)
-PROBABILIDADE_MOSTRAR_MEDIO = 0.5
+# Probabilidade de mostrar a tradução na fase MÉDIO (30%)
+PROBABILIDADE_MOSTRAR_MEDIO = 0.3
 
 # ====================== LISTA DE PALAVRAS ======================
 words_by_level = {
